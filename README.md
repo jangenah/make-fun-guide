@@ -1,8 +1,8 @@
 # Make.fun, from zero to your first paid entry
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/jangenah/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/jangenah/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 **Start here: [join make.fun with my link](https://make.fun/r/v4yrjcsp) — referral code `v4yrjcsp`.**
 
